@@ -3,7 +3,7 @@
 
 차량 전장 시스템(CAN) 연동
 
-Team: 4Wheel Coders
+### Team: 4Wheel Coders
 
 * Members
   | Name | Role |
