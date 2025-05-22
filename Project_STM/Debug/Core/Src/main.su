@@ -1,0 +1,14 @@
+../Core/Src/main.c:77:5:main	16	static
+../Core/Src/main.c:140:6:SystemClock_Config	88	static
+../Core/Src/main.c:187:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:225:13:MX_TIM3_Init	48	static
+../Core/Src/main.c:274:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:307:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:368:9:SPI_WriteRead	32	static
+../Core/Src/main.c:376:6:mcp2515_write_register	16	static
+../Core/Src/main.c:385:9:mcp2515_read_register	24	static
+../Core/Src/main.c:399:6:mcp2515_reset	8	static
+../Core/Src/main.c:407:6:mcp2515_init	48	static
+../Core/Src/main.c:441:6:mcp2515_send_message	48	static
+../Core/Src/main.c:487:6:mcp2515_receive_message	200	static
+../Core/Src/main.c:567:6:Error_Handler	4	static,ignoring_inline_asm

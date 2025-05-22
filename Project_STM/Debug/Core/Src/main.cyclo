@@ -1,0 +1,14 @@
+../Core/Src/main.c:77:5:main	1
+../Core/Src/main.c:140:6:SystemClock_Config	3
+../Core/Src/main.c:187:13:MX_SPI1_Init	2
+../Core/Src/main.c:225:13:MX_TIM3_Init	4
+../Core/Src/main.c:274:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:307:13:MX_GPIO_Init	1
+../Core/Src/main.c:368:9:SPI_WriteRead	1
+../Core/Src/main.c:376:6:mcp2515_write_register	1
+../Core/Src/main.c:385:9:mcp2515_read_register	1
+../Core/Src/main.c:399:6:mcp2515_reset	1
+../Core/Src/main.c:407:6:mcp2515_init	2
+../Core/Src/main.c:441:6:mcp2515_send_message	2
+../Core/Src/main.c:487:6:mcp2515_receive_message	10
+../Core/Src/main.c:567:6:Error_Handler	1
