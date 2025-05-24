@@ -34,13 +34,14 @@
 
 ## High Level Design
 ### 개발환경
-![개발환경](https://github.com/user-attachments/assets/07f743e1-5835-4216-8839-46b70b382bd2)
+![개발환경2](https://github.com/user-attachments/assets/cba5cb68-62e0-474d-a945-9973c3bad590)
+
 
 ### 개발환경-하드웨어
 ![하드웨어](https://github.com/user-attachments/assets/3dfd577f-774a-4eb3-bf5c-2f20fae1c513)
 
 ### 시스템 구성도
-![시스템구성도](https://github.com/user-attachments/assets/b35e05a9-91c4-4fec-b45f-cd40ce3b37f3)
+![구성도2](https://github.com/user-attachments/assets/5cc5bea1-6f6e-4ae7-8000-a64c13109e2c)
 
 
 ### 흐름도
