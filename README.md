@@ -49,9 +49,9 @@ Project_STM 폴더를 STM32CUBEIDE 프로그램으로 import 후 빌드 진행 �
 ```shell
 cd boxmot
 ```
-```shell
 <details>
   <summary> Tracking</summary>
+  ```shell
 $ python tracking/track.py --yolo-model rf-detr-base.pt  # bboxes only
   python tracking/track.py --yolo-model yolox_s.pt       # bboxes only
   python tracking/track.py --yolo-model yolov10n         # bboxes only
@@ -59,6 +59,7 @@ $ python tracking/track.py --yolo-model rf-detr-base.pt  # bboxes only
   python tracking/track.py --yolo-model yolov8n          # bboxes only
                                         yolov8n-seg      # bboxes + segmentation masks
                                         yolov8n-pose     # bboxes + pose estimation
+  ```
 </details>
 
 ## Output
