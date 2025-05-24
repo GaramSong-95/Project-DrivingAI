@@ -174,13 +174,8 @@ $ python3 boxmot/appearance/reid_export.py --include engine --device 0 --dynamic
 </details>
 
 ## Output
-![image](https://github.com/user-attachments/assets/2be3cc71-ce43-40ce-8d94-cc5c48630446)
-
-![image](https://github.com/user-attachments/assets/231e8fb6-e6fa-4530-9541-e695ba742b05)
-
-![image](https://github.com/user-attachments/assets/ae9ae276-ffe0-4e22-afbc-14657d6cf2b9)
-
-![image](https://github.com/user-attachments/assets/fa9a3ba3-c575-49c2-89c5-343c957ea5f4)
-
+![보드사진](https://github.com/user-attachments/assets/77410450-be27-49b6-b674-9473ef11c87b)
+![차량사진 jpg](https://github.com/user-attachments/assets/2781f0cc-47c7-48df-8aa3-a2aa0787fdd1)
+![차사진](https://github.com/user-attachments/assets/9281e447-e93f-401b-b8ec-ef2724b98659)
 
 ## Appendix
