@@ -265,6 +265,9 @@ $ python3 boxmot/appearance/reid_export.py --include engine --device 0 --dynamic
   |CAN통신 송수신 문제|통신속도가 맞지 않았음|STM32보드의 프리스케일러를 조정하여 통신속도 500kbps로 맞춤|
   |JetsonNano에 boxmot 탑재 불가|Jet pack 4.6.3에서 지원하는 pytorch는 파이썬3.6 환경에서 작동되지만 yolov8은 파이썬3.7이상의 환경에서 작동되어 상충됨|PC에 탑재|
 
+## 개발 후기
+
+여러 문제 상황에 직면하여 어려움과 고민의 시간이 있었지만 모두 극복하고 프로젝트를 완성하여 보람이 있었고 ADAS에 대한 실무경험과 알고리즘 구현의 역량을 쌓을 수 있었고 CAN통신에 대해 공부하고 직접 구축한 좋은 경험이었습니다.
 
 
 
