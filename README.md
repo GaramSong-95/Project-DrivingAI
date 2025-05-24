@@ -59,8 +59,8 @@ $ python tracking/track.py --yolo-model rf-detr-base.pt  # bboxes only
   python tracking/track.py --yolo-model yolov8n          # bboxes only
                                         yolov8n-seg      # bboxes + segmentation masks
                                         yolov8n-pose     # bboxes + pose estimation
-  ```
-</details>
+
+</details>```
 
 ## Output
 
