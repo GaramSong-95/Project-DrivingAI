@@ -28,9 +28,38 @@ git clone https://github.com/GaramSong-95/Project-DrivingAI.git
 ```
 ## Prerequite
 
+```shell
+python m venv .venv
+pip install boxmot
+```
+If you want to run the RFDETR, YOLOX or YOLOv12 examples:
+```shell
+cd boxmot
+pip install uv
+uv sync --group yolo
+activate .venv/bin/activate
+```
+
 ## Steps to build
 
+Project_STM 폴더를 STM32CUBEIDE 프로그램으로 import 후 빌드 진행 보드명은 STM32F411RE
+
 ## Step to run
+
+```shell
+cd boxmot
+```
+```shell
+<details>
+  <summary> Tracking</summary>
+$ python tracking/track.py --yolo-model rf-detr-base.pt  # bboxes only
+  python tracking/track.py --yolo-model yolox_s.pt       # bboxes only
+  python tracking/track.py --yolo-model yolov10n         # bboxes only
+  python tracking/track.py --yolo-model yolov9s          # bboxes only
+  python tracking/track.py --yolo-model yolov8n          # bboxes only
+                                        yolov8n-seg      # bboxes + segmentation masks
+                                        yolov8n-pose     # bboxes + pose estimation
+</details>
 
 ## Output
 
