@@ -37,9 +37,11 @@
 ![개발환경](https://github.com/user-attachments/assets/07f743e1-5835-4216-8839-46b70b382bd2)
 
 ### 개발환경-하드웨어
-![개발환경-하드웨어](https://github.com/user-attachments/assets/d63a78cd-ccc1-41d5-bd3a-568e3696c252)
+![하드웨어](https://github.com/user-attachments/assets/3dfd577f-774a-4eb3-bf5c-2f20fae1c513)
+
 ### 시스템 구성도
-![시스템구성도](https://github.com/user-attachments/assets/16281600-bde1-46d3-b2a8-d20d386f58cc)
+![시스템구성도](https://github.com/user-attachments/assets/b35e05a9-91c4-4fec-b45f-cd40ce3b37f3)
+
 
 ### 흐름도
 ![흐름도](https://github.com/user-attachments/assets/144aba16-51e0-4736-b17e-dca0adff93c5)
