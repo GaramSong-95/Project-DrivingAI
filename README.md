@@ -29,8 +29,11 @@ git clone https://github.com/GaramSong-95/Project-DrivingAI.git
 ## Prerequite
 
 ```shell
+sudo apt update
+sudo apt install can-utils
 python m venv .venv
 pip install boxmot
+pip install python-can
 ```
 If you want to run the RFDETR, YOLOX or YOLOv12 examples:
 ```shell
@@ -47,6 +50,9 @@ Project_STM 폴더를 STM32CUBEIDE 프로그램으로 import 후 빌드 진행 �
 ## Step to run
 
 ```shell
+$ sudo ip link set can0 down  # 혹시 켜져있다면 먼저 끔
+$ sudo ip link set can0 type can bitrate 500000
+$ sudo ip link set can0 up
 $ cd boxmot
 $ python tracking/track.py --yolo-model yolov8n --source 영상경로 --device 0 --veiw --save 저장경로
 ```
