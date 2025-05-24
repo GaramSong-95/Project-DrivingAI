@@ -180,5 +180,5 @@ $ python3 boxmot/appearance/reid_export.py --include engine --device 0 --dynamic
 ![차사진](https://github.com/user-attachments/assets/9281e447-e93f-401b-b8ec-ef2724b98659)
 
 ## Appendix
-*boxmot
+* boxmot
 https://github.com/mikel-brostrom/boxmot?tab=readme-ov-file#rfdetr--yolox--yolov12-examples
