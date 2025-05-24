@@ -47,7 +47,8 @@ Project_STM 폴더를 STM32CUBEIDE 프로그램으로 import 후 빌드 진행 �
 ## Step to run
 
 ```shell
-cd boxmot
+$ cd boxmot
+$ python tracking/track.py --yolo-model yolov8n --source 영상경로 --device 0 --veiw --save 저장경로
 ```
 
 <details>
@@ -81,7 +82,7 @@ $ python tracking/track.py --tracking-method deepocsort
 </details>
 
 <details>
-  <summary>Tracking methods</summary>
+  <summary>Tracking sources</summary>
   
 tracking can be run on most video formats
   ```shell
