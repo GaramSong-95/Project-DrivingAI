@@ -14,14 +14,18 @@
 
 ## High Level Design
 ### 개발환경
-![개발환경](https://github.com/user-attachments/assets/26256a9b-0a2b-4910-88a3-56a1139716a9)
+![개발환경](https://github.com/user-attachments/assets/c4819215-83e8-4d50-b16c-ad70cfc3f378)
+
 ### 개발환경-하드웨어
 ![개발환경-하드웨어](https://github.com/user-attachments/assets/d63a78cd-ccc1-41d5-bd3a-568e3696c252)
 ### 시스템 구성도
-![시스템구성도](https://github.com/user-attachments/assets/de9513a6-89bf-4d53-bf84-683dc9c447b1)
+![시스템구성도](https://github.com/user-attachments/assets/2e7f8dbf-c287-43cd-9bc6-8ee93fb2c671)
 
 ## Clone code
 
+```shell
+git clone https://github.com/GaramSong-95/Project-DrivingAI.git
+```
 ## Prerequite
 
 ## Steps to build
