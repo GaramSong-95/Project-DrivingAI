@@ -1,5 +1,5 @@
 # Smart Surround
-**Intel edge AI academy 프로젝트 경진대회 최우수상작**
+### **🏅 Intel Edge AI Academy 프로젝트 경진대회 – 최우수상 수상작**
 
 전방 및 측면/후방 차량의 운전 패턴을 인식하여 졸음운전, 난폭운전 등을 실시간 탐지 (ADAS시스템)
 
