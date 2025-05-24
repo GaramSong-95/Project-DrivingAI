@@ -174,7 +174,7 @@ $ python3 boxmot/appearance/reid_export.py --include engine --device 0 --dynamic
 </details>
 
 ## Output
-![보드사진](https://github.com/user-attachments/assets/77410450-be27-49b6-b674-9473ef11c87b)
+![보드사진](https://github.com/user-attachments/assets/72f5e2cc-a8dc-40fc-88d8-2f6280a11a10)
 ![차량사진 jpg](https://github.com/user-attachments/assets/2781f0cc-47c7-48df-8aa3-a2aa0787fdd1)
 ![차사진](https://github.com/user-attachments/assets/9281e447-e93f-401b-b8ec-ef2724b98659)
 
