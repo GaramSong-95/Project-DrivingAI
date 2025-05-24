@@ -1,5 +1,5 @@
 # Smart Surround
-### **🏅 Intel Edge AI Academy 프로젝트 경진대회 – 최우수상 수상작**
+### **🏅 Intel Edge AI Academy 최종프로젝트 경진대회 – 최우수상 수상작**
 
 도로 상에서 주변 차량의 운전 행태(과속, 졸음운전 등)를 인식 하고, 위험한 차량을 사전에 식별하여 사고를 예방할 수 있는 시스템을 구현
 
@@ -40,6 +40,8 @@
 ![개발환경-하드웨어](https://github.com/user-attachments/assets/d63a78cd-ccc1-41d5-bd3a-568e3696c252)
 ### 시스템 구성도
 ![시스템구성도](https://github.com/user-attachments/assets/2e7f8dbf-c287-43cd-9bc6-8ee93fb2c671)
+### 흐름도
+![흐름도](https://github.com/user-attachments/assets/144aba16-51e0-4736-b17e-dca0adff93c5)
 
 ## Clone code
 
